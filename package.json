@@ -11,7 +11,8 @@
   "dependencies": {
     "plasmo": "0.52.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.2"
   },
   "devDependencies": {
     "@plasmohq/prettier-plugin-sort-imports": "1.2.0",
